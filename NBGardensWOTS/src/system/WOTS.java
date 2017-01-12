@@ -1,5 +1,6 @@
 /**
- * 
+ * Class that manages system operations.
+ * Windows change.
  */
 package system;
 
